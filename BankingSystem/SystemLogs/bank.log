@@ -1,0 +1,4 @@
+werkzeug - INFO -  * Running on http://0.0.0.0:9000/ (Press CTRL+C to quit)
+werkzeug - INFO - 127.0.0.1 - - [02/Apr/2021 00:25:23] "[37mPOST /fundTransfer HTTP/1.1[0m" 200 -
+werkzeug - INFO - 127.0.0.1 - - [02/Apr/2021 00:25:32] "[36mGET /tier1 HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [02/Apr/2021 00:25:33] "[37mPOST /loadEmployee HTTP/1.1[0m" 200 -
